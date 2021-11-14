@@ -1,0 +1,24 @@
+{
+  "name": "ciphering-cli-tool",
+  "version": "1.0.0",
+  "description": "ciphering-cli-tool node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhenyaDope/ciphering-cli-tool.git"
+  },
+  "keywords": [
+    "ciphering-cli-tool",
+    "node",
+    "nodejs"
+  ],
+  "author": "Evgeny Kolesnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhenyaDope/ciphering-cli-tool/issues"
+  },
+  "homepage": "https://github.com/ZhenyaDope/ciphering-cli-tool#readme"
+}
